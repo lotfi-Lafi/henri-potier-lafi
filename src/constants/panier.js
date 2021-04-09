@@ -1,0 +1,5 @@
+//panier
+export const CALCUL_PANIER = 'CALCUL_PANIER';
+export const CALCUL_PRICE_TOTLAE = 'CALCUL_PRICE_TOTLAE';
+export const ADD_PANIER = 'ADD_PANIER';
+export const DELETE_PANIER = 'DELETE_PANIER';

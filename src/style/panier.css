@@ -1,0 +1,25 @@
+.panier {
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.count {
+    color: #212E53;
+    font-size: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.styleCounter{
+    color: #212E53;
+    margin-left: 10px;
+ }
+.styleCounterText{
+    font-size: small;
+    color: #212E53;
+}
+.title {
+    margin-left: 140px;
+}
+.input{
+    width: 100%;
+}

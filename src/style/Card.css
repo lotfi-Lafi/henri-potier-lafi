@@ -1,0 +1,30 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.cover{
+    width:100px;
+    height:150px;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btnPlus{
+    cursor: pointer;
+}
+.linethrough{
+    text-decoration: line-through;
+}
+.priceTotaleAfterDiscount{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
